@@ -1,6 +1,6 @@
-streamlit==1.10.0
-tensorflow==2.16.1
-pillow==9.1.1
-numpy==1.22.4
-opencv-python==4.5.5.64
-
+streamlit
+tensorflow
+numpy
+pillow
+opencv-python
+scikit-learn
